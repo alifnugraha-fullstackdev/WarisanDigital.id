@@ -1,0 +1,28 @@
+Era 1: 1970s — "Benih Ditanam"
+  → Komputer pertama masuk Indonesia (IBM mainframe BAPPENAS)
+  → Mahasiswa Indonesia belajar coding di luar negeri
+
+Era 2: 1980s — "Tunas Tumbuh"  
+  → Komputer Apel/Apple II masuk ke sekolah
+  → Komunitas programmer pertama terbentuk
+  → Program studi Teknik Informatika pertama dibuka (UI, ITS)
+
+Era 3: 1990s — "Era Gelombang Pertama"
+  → Internet masuk Indonesia (1994, IPTEK-net)
+  → Warnet bermunculan, budaya coding meledak
+  → Forum-forum programmer lokal lahir
+
+Era 4: 2000s — "Kebangkitan Digital"
+  → Era Friendster, Kaskus, Detik.com
+  → Startup teknologi Indonesia pertama
+  → Krisis & recovery digital pasca 1998
+
+Era 5: 2010s — "Revolusi Startup"
+  → Gojek, Tokopedia, Bukalapak lahir
+  → Developer Indonesia mendunia
+  → Komunitas tech meledak (GDP Venture, Idcamp, dll)
+
+Era 6: 2020s — "Warisan Diwariskan"
+  → Era AI, cloud-native, Web3
+  → Indonesia masuk Top 10 developer terbanyak di GitHub
+  → Generasi baru membangun legacy

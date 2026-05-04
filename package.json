@@ -1,0 +1,25 @@
+{
+  "name": "warisandigital-theme",
+  "version": "1.0.0",
+  "description": "Sejarah Pemrograman Indonesia - Digital Synergy 2026",
+  "main": "index.php",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [
+    "wordpress",
+    "theme",
+    "tailwind",
+    "vite"
+  ],
+  "author": "WARISANDIGITAL",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2",
+    "vite": "^8.0.10"
+  }
+}
